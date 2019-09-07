@@ -1,7 +1,4 @@
   language: python
-  install:
-    - 'pip install pipenv'
-    - 'pipenv install'
   python:
     - '3.7'
   script:
