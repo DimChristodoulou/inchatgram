@@ -17,7 +17,7 @@ mathparse==0.1.2
 mccabe==0.6.1
 murmurhash==1.0.2
 nltk==3.4.5
-numpy==1.17.2
+numpy==1.22.0
 Pillow==6.1.0
 Pint==0.9
 pipenv==2018.11.26
