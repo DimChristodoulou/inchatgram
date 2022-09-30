@@ -11,7 +11,7 @@ huepy==0.9.8.1
 idna==2.8
 instabot==0.55.0
 isort==4.3.21
-joblib==0.13.2
+joblib==1.2.0
 lazy-object-proxy==1.4.2
 mathparse==0.1.2
 mccabe==0.6.1
